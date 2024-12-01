@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YoE-PaIqekup7r2EiLxSjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5ccda9dd-ba61-4123-b778-c58cc4e64fdb" DesignTimeRectangle="39, 312, 222, 29" DesignTimeScaleFactor="1.5" ElementType="CheckBox" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='checkBox1' /&gt;" Guid="7aac90c4-958b-4e96-a3b3-6c481a7b5ad9" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchingClient' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9ec2bac90f1ac09068c2ed6f450a7df3.png" xmlns="">0ZAqkn4P0RkeO6GHOquwAag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

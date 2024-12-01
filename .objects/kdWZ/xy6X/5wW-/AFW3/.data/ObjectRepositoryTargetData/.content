@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E9tfybXBPUCB_BeUsB_jBg" Reference="PyAIz-RePUuT8iNqOBnQDg/AFW39iJ9NkipcXIMpp14sA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/search" CVScreenId="7a3d4709-592b-4678-a6b8-0b513472e0ce" DesignTimeRectangle="542, 816, 330, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentname='searchForm' tag='DIV' innertext='*{0}*' /&gt;&lt;webctrl aria-role='button' tag='BUTTON' /&gt;&quot;, TextMonth)]" Guid="b52591cd-1936-4aed-9c3d-85b90b27da71" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Client Check' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7a3d4709-592b-4678-a6b8-0b513472e0ce" CvTextArea="540, 783, 70, 19" CvTextArgument="Month:" CvType="Text" DesignTimeRectangle="542, 779, 69, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Month:' tag='LABEL' type='' class='' check:innerText='Month:' /&gt;" Guid="a426a6cd-579c-4983-a5e9-2a8fd45df183" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2d3dbd4069cef0698a002f894fc07ac9.png" xmlns="">0N1WcBlRD50WLuSKJVx-guw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="TextMonth" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

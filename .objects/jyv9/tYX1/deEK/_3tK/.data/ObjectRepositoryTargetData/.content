@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V1KiNU8xdUGanin5_V9pRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="806a9b10-4760-4646-8ede-891d2f7603e8" DesignTimeRectangle="231, 340, 161, 34" DesignTimeScaleFactor="1.5" ElementType="DropDown" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='comboBox1' /&gt;&lt;ctrl role='combo box' /&gt;" Guid="008b0644-1a25-4ee8-8cbd-7e8449523e06" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchCheckCopy' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="806a9b10-4760-4646-8ede-891d2f7603e8" CvTextArea="47, 355, 54, 18" CvTextArgument="Status" CvType="Text" DesignTimeRectangle="45, 352, 62, 23" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='label3' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='label3' check:text='Status' /&gt;" Guid="38a6310c-90a0-4500-be6e-3b2c2366ba0d" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="834ef561de29b1b084e3b346fbcfece4.png" xmlns="">0GrS_27ZslU2LU8s0IiyDvQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

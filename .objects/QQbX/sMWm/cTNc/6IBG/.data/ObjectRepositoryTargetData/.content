@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="B8qYDiCmfE6s0K5TdQQQTw" Reference="PyAIz-RePUuT8iNqOBnQDg/6IBGwYK51EGj_bhiRm9c3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="c4b13f30-2747-4572-83a5-36b189240c0d" DesignTimeRectangle="1060, 511, 716, 33" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' innertext='Result for sha1:*' /&gt;&lt;webctrl id='result-sha1' /&gt;" Guid="1371f81e-4a36-4741-b32f-3fa45f0a122a" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6c2ac3aec3addc0bac7e7b7374a82c81.png" xmlns="">0AL7j8aA0REmVonQZAjpz3Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

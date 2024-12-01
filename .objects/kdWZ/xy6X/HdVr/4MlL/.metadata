@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Checks",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "4MlLb8CEc0u4uwryNiaXBg",
+  "Reference": "PyAIz-RePUuT8iNqOBnQDg/4MlLb8CEc0u4uwryNiaXBg",
+  "ParentRef": "PyAIz-RePUuT8iNqOBnQDg/HdVrp7vFxUmxcuyqSIJ3kg",
+  "Created": "2024-11-23T11:44:34.473235Z",
+  "Updated": "2024-11-23T11:44:34.473235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

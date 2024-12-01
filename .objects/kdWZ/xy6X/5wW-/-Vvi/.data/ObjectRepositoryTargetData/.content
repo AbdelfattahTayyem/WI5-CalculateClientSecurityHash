@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ggEqNTNVoEWTmHFJ7f3uQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/search" CVScreenId="b03ec78d-21ef-469c-b4f9-fdfeb763b434" DesignTimeRectangle="542, 991, 169, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl id='searchCheck' tag='BUTTON' /&gt;" Guid="2f9c4e0c-c90d-4a36-bbd7-2029c7ae0be6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Client Check' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="59b5c6177553d917722e4383612f7738.png" xmlns="">0GLnRY3iMhEWJ6IfoKrS5vw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

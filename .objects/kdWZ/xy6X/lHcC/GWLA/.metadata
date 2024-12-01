@@ -1,0 +1,14 @@
+﻿{
+  "Name": "push button Save (Ctrl+…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "GWLAfW5j602r566mjn7RKA",
+  "Reference": "PyAIz-RePUuT8iNqOBnQDg/GWLAfW5j602r566mjn7RKA",
+  "ParentRef": "PyAIz-RePUuT8iNqOBnQDg/lHcCxMa790eFG_sBDwoM2Q",
+  "Created": "2024-11-23T09:41:49.7399292Z",
+  "Updated": "2024-11-23T09:41:49.7399292Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KzRiGlwEOUGsTKqGJa7vpg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/search" CVScreenId="0ca2e34b-b9b6-432f-906d-0d3771a38391" DesignTimeRectangle="542, 919, 330, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='---' aria-role='button' tag='BUTTON' /&gt;" Guid="67208ac2-b48c-491c-8a44-5ca772ba874f" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Client Check' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0ca2e34b-b9b6-432f-906d-0d3771a38391" CvTextArea="539, 887, 52, 18" CvTextArgument="Year:" CvType="Text" DesignTimeRectangle="542, 881, 51, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Year:' tag='LABEL' type='' class='' check:innerText='Year:' /&gt;" Guid="bdcc6fde-4b3e-4f7a-bed2-64292a314f1c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e4d710f049b13f3bc81cdc7666533ab7.png" xmlns="">0W4Tn_8JTYEagRf4pLV8f0g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

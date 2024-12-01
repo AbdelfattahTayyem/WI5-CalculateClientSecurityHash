@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KH3uwS4YE0SwUn-koDwxUg" Reference="PyAIz-RePUuT8iNqOBnQDg/GWLAfW5j602r566mjn7RKA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/checks/38/Check-Request-For-30513869.pdf" DesignTimeRectangle="2361, 128, 55, 49" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Check-Request-For-*.pdf' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Save (Ctrl+S)' role='push button' /&gt;" Guid="dfd787e9-a898-4f57-8875-72df7287039a" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Check-Request-For-30513869.pdf - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6015b55701dbb7f3467953aeb4505c7a.png" xmlns="">0ZbwAIMvL4k28HdhCK0uHEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

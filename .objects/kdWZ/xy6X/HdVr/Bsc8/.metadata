@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search for Check",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Bsc8w763W0ePfBroY2mfpg",
+  "Reference": "PyAIz-RePUuT8iNqOBnQDg/Bsc8w763W0ePfBroY2mfpg",
+  "ParentRef": "PyAIz-RePUuT8iNqOBnQDg/HdVrp7vFxUmxcuyqSIJ3kg",
+  "Created": "2024-11-23T11:45:14.8993792Z",
+  "Updated": "2024-11-23T11:45:14.8993792Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

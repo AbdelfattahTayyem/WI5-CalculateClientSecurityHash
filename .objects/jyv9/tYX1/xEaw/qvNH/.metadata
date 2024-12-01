@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Client Checks",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "qvNH-3N9jEe7gig4GnRz4A",
+  "Reference": "PyAIz-RePUuT8iNqOBnQDg/qvNH-3N9jEe7gig4GnRz4A",
+  "ParentRef": "PyAIz-RePUuT8iNqOBnQDg/xEaw7dbBGEWxGZByOe-oGg",
+  "Created": "2024-11-23T13:19:07.7687229Z",
+  "Updated": "2024-11-23T13:19:07.7687229Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

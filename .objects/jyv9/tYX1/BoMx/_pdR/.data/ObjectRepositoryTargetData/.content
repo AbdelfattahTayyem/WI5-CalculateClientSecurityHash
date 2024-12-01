@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WyPwYqNhuk2zDDNaTBbqvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a980dee7-b0e8-4028-9c69-ed430b7077bb" DesignTimeRectangle="143, 116, 298, 33" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;wnd ctrlname='menuStrip1' /&gt;&lt;ctrl name='menuStrip1' role='menu bar' /&gt;&lt;ctrl name='Clients' role='menu item' /&gt;&lt;ctrl name='Search For Client' role='menu item' /&gt;" Guid="800d03a1-e09c-4979-a7fb-61f804038ed6" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='Dashboard' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d9716d73bb7b6362e3a490c3a00094e9.png" xmlns="">08Fa3AOB7zU-nq7msgSA9rw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

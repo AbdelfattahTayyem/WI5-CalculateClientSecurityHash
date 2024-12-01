@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HcBlzex0Y0GxJMON5ZdgKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7ad9fbf6-cae9-48e0-a017-0bc058326e3e" DesignTimeRectangle="390, 588, 345, 57" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlname='button2' /&gt;" Guid="5e8099fa-02e6-4a79-bed2-718e80db4ae7" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='ClientDetails' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3a6020fa8e23fa22cd67774133c94925.png" xmlns="">0CBjrQlxNXE6ddZJVyU8CcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

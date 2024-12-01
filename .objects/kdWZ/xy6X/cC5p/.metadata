@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1 - Work Items(2)",
+  "Type": "Screen",
+  "Id": "cC5pReOSN0Gic4KPKhX5Qw",
+  "Reference": "PyAIz-RePUuT8iNqOBnQDg/cC5pReOSN0Gic4KPKhX5Qw",
+  "ParentRef": "PyAIz-RePUuT8iNqOBnQDg/xy6XB4B1AESFvCwUXhBGGw",
+  "Created": "2024-11-23T18:51:36.7076212Z",
+  "Updated": "2024-11-23T18:51:36.7076212Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
